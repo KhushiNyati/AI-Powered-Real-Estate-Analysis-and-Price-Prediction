@@ -61,7 +61,7 @@ Run the insights module to visualize trends:
 
 python insights.py
 
-📈 Applications
+## Applications
 
 Real Estate Buyers & Sellers – Estimate property values before buying or selling.
 
@@ -71,7 +71,7 @@ Real Estate Agencies – Get insights into market trends and pricing strategies.
 
 Urban Development & Planning – Assist policymakers in city planning and infrastructure growth.
 
-🔮 Future Enhancements
+## Future Enhancements
 
 Real-time API for Price Prediction to integrate with real estate platforms.
 
