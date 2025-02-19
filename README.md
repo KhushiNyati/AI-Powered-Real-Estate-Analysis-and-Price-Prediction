@@ -81,3 +81,32 @@ Web-Based Dashboard for interactive real estate analysis and recommendations.
 
 Live Data Integration from real estate listing platforms for dynamic analysis.
 
+flats.xlsx - https://github.com/KhushiNyati/AI-Powered-Real-Estate-Analysis-and-Price-Prediction/blob/main/flats.xlsx
+
+independent-house.xlsx - https://github.com/KhushiNyati/AI-Powered-Real-Estate-Analysis-and-Price-Prediction/blob/main/independent-house.xlsx
+
+real_estate_data.xlsx- https://github.com/KhushiNyati/AI-Powered-Real-Estate-Analysis-and-Price-Prediction/blob/main/real_estate_data.xlsx
+
+residential-land.xlsx - https://github.com/KhushiNyati/AI-Powered-Real-Estate-Analysis-and-Price-Prediction/blob/main/residential-land.xlsx
+
+data-preprocessing-flats - https://github.com/KhushiNyati/AI-Powered-Real-Estate-Analysis-and-Price-Prediction/blob/main/data-preprocessing-flats.ipynb
+
+data-preprocessing-houses - https://github.com/KhushiNyati/AI-Powered-Real-Estate-Analysis-and-Price-Prediction/blob/main/data-preprocessing-houses.ipynb
+
+merge-flats-and-house - https://github.com/KhushiNyati/AI-Powered-Real-Estate-Analysis-and-Price-Prediction/blob/main/merge-flats-and-house.ipynb
+
+data-preprocessing-level-2 - https://github.com/KhushiNyati/AI-Powered-Real-Estate-Analysis-and-Price-Prediction/blob/main/data-preprocessing-level-2.ipynb
+
+gurgaon_properties_cleaned_v1.csv - https://github.com/KhushiNyati/AI-Powered-Real-Estate-Analysis-and-Price-Prediction/blob/main/gurgaon_properties_cleaned_v1.csv 
+ 
+feature-engineering - https://github.com/KhushiNyati/AI-Powered-Real-Estate-Analysis-and-Price-Prediction/blob/main/feature-engineering.ipynb
+
+gurgaon_properties_cleaned_v2.csv - https://github.com/KhushiNyati/AI-Powered-Real-Estate-Analysis-and-Price-Prediction/blob/main/gurgaon_properties_cleaned_v2.csv
+
+eda-univariate-analysis.ipynb - https://github.com/KhushiNyati/AI-Powered-Real-Estate-Analysis-and-Price-Prediction/blob/main/eda-univariate-analysis.ipynb
+
+eda-pandas-profiling.ipynb - https://github.com/KhushiNyati/AI-Powered-Real-Estate-Analysis-and-Price-Prediction/blob/main/eda-pandas-profiling.ipynb
+
+eda-multivariate-analysis.ipynb - https://github.com/KhushiNyati/AI-Powered-Real-Estate-Analysis-and-Price-Prediction/blob/main/eda-multivariate-analysis.ipynb
+
+
